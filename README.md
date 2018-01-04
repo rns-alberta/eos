@@ -4,7 +4,7 @@ Equation of State files for use in the RNS program.
 EOS included in this library:
 
 APR = Akmal, Pandharipande, & Ravenhall, (1998) Phys Rev C 58,1804
-			3-body potential formalism including special relativistic corrections
+3-body potential formalism including special relativistic corrections
       
 ABPR = Alford, Braby, Paris & Reddy (2005), ApJ 629, 969-978
 		Mixed Phase Hybrid Quark Star - EOS given in ABPR 
@@ -17,4 +17,7 @@ ABPR = Alford, Braby, Paris & Reddy (2005), ApJ 629, 969-978
 BBB = Baldo, Bombaci & Burgio, A&A 328, 274-282 (1997)
     Hadronic EOS (2 versions, see paper)
 
+HLPS = Hebeler, Lattimer, Pethick & Schwenk (2013), ApJ 773
+Representative EOS that span a realistic (from a nuclear viewpoint) range of stiffness.
+HLPS1 = softest EOS; HLPS3 = stiffest EOS
 
