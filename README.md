@@ -21,3 +21,5 @@ HLPS = Hebeler, Lattimer, Pethick & Schwenk (2013), ApJ 773
 Representative EOS that span a realistic (from a nuclear viewpoint) range of stiffness.
 HLPS1 = softest EOS; HLPS3 = stiffest EOS
 
+L = PANDHARIPANDE AND SMITH (MEAN FIELD): Arnett & Bowers EOS L
+Unrealistically stiff EOS.
