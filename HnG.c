@@ -1,6 +1,6 @@
 /***************************************************************************/
 /*                             HnG.C                                       */
-/*                                                                         */
+/* Code used to convert an EOS into the rns format                         */
 /* Compile: cc -O HnG.c -lm -o HnG                                         */
 /*                                                                         */
 /* Usage: HnG  e_vs_P_filename   number_of_points_in_eos_file              */
